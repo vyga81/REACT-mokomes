@@ -1,11 +1,16 @@
 import logo from './osquery.svg';
 import './App.css';
 
+
+
+
 function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <background></background>
         <img src={logo} className="App-logo" alt="logo" />
+
         <p>
           Sveiki atvyke i REACT pasauli
 
