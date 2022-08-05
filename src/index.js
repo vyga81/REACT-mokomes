@@ -5,6 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 import { Component } from './test'
+import { Nav } from './test'
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -12,6 +13,7 @@ root.render(
   <React.StrictMode>
     <App />
     <Component />
+    <Nav />
   </React.StrictMode>
 );
 

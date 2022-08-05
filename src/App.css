@@ -40,3 +40,25 @@
 
   }
 }
+
+.unordered_list {
+  list-style: none;
+}
+
+.image_div {
+  margin-top: -19px;
+}
+
+.button_li {
+  width: 100px;
+  height: 40px;
+  border-radius: 15px;
+  background-color: aquamarine;
+}
+
+.navbar {
+  margin-top: -350px;
+  width: 1519px;
+  height: 150px;
+  background-color: rgb(224, 224, 158);
+}
